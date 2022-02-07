@@ -12,7 +12,7 @@
     "@oclif/command": "^1.5.13",
     "@oclif/config": "^1.12.12",
     "@oclif/errors": "^1.2.2",
-    "@oclif/plugin-help": "^2.1.6",
+    "@oclif/plugin-help": "^5.1.11",
     "cli-ux": "^5.2.1",
     "debug": "^4.1.1",
     "find-yarn-workspace-root": "^2.0.0",
