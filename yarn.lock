@@ -25,10 +25,10 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
-"@changesets/types@^3.1.1":
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/@changesets/types/-/types-3.1.1.tgz#447481380c42044a8788e46c0dbdf592b338b62f"
-  integrity sha512-XWGEGWXhM92zvBWiQt2sOwhjTt8eCQbrsRbqkv4WYwW3Zsl4qPpvhHsNt845S42dJXrxgjWvId+jxFQocCayNQ==
+"@changesets/types@^5.2.1":
+  version "5.2.1"
+  resolved "https://registry.yarnpkg.com/@changesets/types/-/types-5.2.1.tgz#a228c48004aa8a93bce4be2d1d31527ef3bf21f6"
+  integrity sha512-myLfHbVOqaq9UtUKqR/nZA/OY7xFjQMdfgfqeZIBK4d0hA6pgxArvdv8M+6NUzzBsjWLOtvApv8YHr4qM+Kpfg==
 
 "@heroku-cli/color@^1.1.14":
   version "1.1.14"
